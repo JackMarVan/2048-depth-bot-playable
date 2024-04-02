@@ -1,0 +1,6 @@
+2048 - a turn-based puzzle game that can be played on mobile and pc platforms
+spawn - to create an instance of something
+depth search - creating a tree of possibilities in a thorough search of the most preferred outcome
+reinforcement learning - a machine learning model that punishes or rewards individual behaviors
+adversarial search - a machine learning model that seeks a preferred outcome considering expected external interference
+minimax - an adversarial search algorithm that seeks to achieve a maximum benefit and the opponent a minimum benefit
